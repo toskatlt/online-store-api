@@ -1,0 +1,42 @@
+[
+  { 
+	  "id": 1,
+	  "productName": "Mango футболка",
+	  "price": 52 
+  },
+  { 
+	  "id": 2,
+	  "productName": "D&G блузка",
+	  "price": 48 
+  },
+  { 
+	  "id": 3,
+	  "productName": "Mango куртка",
+	  "price": 49 
+  },
+  { 
+	  "id": 4,
+	  "productName": "Mango платье",
+	  "price": 34 
+  },
+  { 
+	  "id": 5,
+	  "productName": "ТВОЕ штаны",
+	  "price": 24 
+  },
+  { 
+	  "id": 6,
+	  "productName": "ADIDAS костюм",
+	  "price": 20 
+  },
+  { 
+	  "id": 7,
+	  "productName": "Reebok штаны",
+	  "price": 33 
+  },
+  { 
+	  "id": 8,
+	  "productName": "ZARA толстовка",
+	  "price": 12 
+  }
+]
