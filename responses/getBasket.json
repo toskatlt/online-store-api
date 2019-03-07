@@ -1,0 +1,18 @@
+{
+	"amount": 100,
+	"countGoods": 2,
+	"contents": [
+		{ 
+			"id": 1,
+			"productName": "Mango футболка",
+			"price": 52 ,
+			"quantity": 1
+		 },
+		 { 
+			 "id": 2,
+			 "productName": "D&G блузка",
+			 "price": 48,
+			 "quantity": 1
+		 },
+	]
+}
